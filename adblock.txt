@@ -1,1 +1,5 @@
+! Chrome AdBlock auxiliarly filters
+! Last update: Tue Mar 19 11:59:52 EDT 2013
+
+! Ad providers. Filter lists don't care they are blocked
 www.draugiem.lv##DIV[id="adv51"][class="adv "]
