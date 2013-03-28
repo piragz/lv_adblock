@@ -3,3 +3,7 @@
 
 ! Ad providers. Filter lists don't care they are blocked
 www.draugiem.lv##DIV[id="adv51"][class="adv "]
+seasonvar.ru##TD[class="SC_TBlock_2472_td"]
+seasonvar.ru##TABLE[class="bn_cLHF3o3Tnt_table"]
+seasonvar.ru##DIV[id="rmg"]
+seasonvar.ru##A[id="brand"]
