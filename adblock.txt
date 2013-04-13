@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 
 ! Title: latvijas bloki
-! Last modified: 08 Apr 2013 21:30 UTC
+! Last modified: 13 Apr 2013 21:30 UTC
 
 
 www.draugiem.lv##DIV[class="adv "]
@@ -13,8 +13,9 @@ seasonvar.ru##DIV[id="prmbn"]
 seasonvar.ru##DIV[class="sidebl sideleft"]
 seasonvar.ru##DIV[class="sidebl sideright"]
 www.draugiem.lv##SPAN[class="received_gift"]
-
 rutracker.org##DIV[class="tCenter bCenter"]
 rutracker.org##DIV[id="owo-idx-6"][class="tCenter"]
 rutracker.org##DIV[id="ddest-bn-1"]
 rutracker.org##DIV[id="bn-tio-1"][class="tCenter"]
+*.directadvert*
+miljons.com##DIV[class="ads"]
