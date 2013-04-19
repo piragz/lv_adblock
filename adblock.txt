@@ -19,3 +19,16 @@ rutracker.org##DIV[id="ddest-bn-1"]
 rutracker.org##DIV[id="bn-tio-1"][class="tCenter"]
 *.directadvert*
 miljons.com##DIV[class="ads"]
+
+
+www.draugiem.lv##DIV[id="adv51"][class="adv "]
+www.draugiem.lv##DIV[id="adw_743"][class="adWindow"]
+www.ceturtdiena.lv##DIV[id="gk_banner"][class="clearfix"]
+www.ceturtdiena.lv##DIV[class="advert"]
+www.kakao.lv##DIV[id="smad_parentcd3537ff-1222-46f2-93ff-e93684eb41e9"]
+www.kakao.lv##A[href="http://inectar.lv/tik.php?id=33&kid=1&kas=10"]
+www.draugiem.lv##SPAN[class="received_gift"]
+www.kurpirkt.lv##DIV[id="smad_parentbe89a087-b3d3-4abd-a401-b09a5e266981"]
+www.tvnet.lv##DIV[id="ad120x600_left"]
+www.tvnet.lv##DIV[id="ad120x600_right"]
+www.tvnet.lv##DIV[id="column03"]
