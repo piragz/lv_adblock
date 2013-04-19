@@ -5,6 +5,7 @@
 
 
 www.draugiem.lv##DIV[class="adv "]
+www.draugiem.lv##DIV[id="adw_931"][class="adWindow"]
 seasonvar.ru##TD[class="SC_TBlock_2472_td"]
 seasonvar.ru##TABLE[class="bn_cLHF3o3Tnt_table"]
 seasonvar.ru##DIV[id="rmg"]
