@@ -33,3 +33,7 @@ www.kurpirkt.lv##DIV[id="smad_parentbe89a087-b3d3-4abd-a401-b09a5e266981"]
 www.tvnet.lv##DIV[id="ad120x600_left"]
 www.tvnet.lv##DIV[id="ad120x600_right"]
 www.tvnet.lv##DIV[id="column03"]
+
+
+seasonvar.ru##TD[class="lx__tsb"]
+www.bildites.lv##DIV[id="smad_parent6eb664eb-c77c-468a-8e52-4f101f0777f7"]
