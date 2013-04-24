@@ -4,7 +4,7 @@
 ! Last modified: 13 Apr 2013 21:30 UTC
 
 
-www.draugiem.lv##DIV[class="adv "]
+www.draugiem.lv##DIV[class="adv*"]
 www.draugiem.lv##DIV[id="adw_931"][class="adWindow"]
 seasonvar.ru##TD[class="SC_TBlock_2472_td"]
 seasonvar.ru##TABLE[class="bn_cLHF3o3Tnt_table"]
@@ -21,9 +21,14 @@ rutracker.org##DIV[id="bn-tio-1"][class="tCenter"]
 *.directadvert*
 miljons.com##DIV[class="ads"]
 
+ad120*
 
-www.draugiem.lv##DIV[id="adv51"][class="adv "]
-www.draugiem.lv##DIV[id="adw_743"][class="adWindow"]
+
+www.pikstra.com##DIV[id="coverPicLikeId"][class="coverPic"]
+www.draugiem.lv##DIV[id="adw_944"][class="adWindow"]
+
+
+www.draugiem.lv##DIV[id="adw*"]
 www.ceturtdiena.lv##DIV[id="gk_banner"][class="clearfix"]
 www.ceturtdiena.lv##DIV[class="advert"]
 www.kakao.lv##DIV[id="smad_parentcd3537ff-1222-46f2-93ff-e93684eb41e9"]
@@ -36,4 +41,4 @@ www.tvnet.lv##DIV[id="column03"]
 
 
 seasonvar.ru##TD[class="lx__tsb"]
-www.bildites.lv##DIV[id="smad_parent6eb664eb-c77c-468a-8e52-4f101f0777f7"]
+*smad_parent*
