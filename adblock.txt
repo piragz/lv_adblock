@@ -3,9 +3,7 @@
 ! Title: latvijas bloki
 ! Last modified: 13 Apr 2013 21:30 UTC
 
-
-www.draugiem.lv##DIV[class="adv*"]
-www.draugiem.lv##DIV[id="adw_931"][class="adWindow"]
+seasonvar.ru##TD[class="lx__tsb"
 seasonvar.ru##TD[class="SC_TBlock_2472_td"]
 seasonvar.ru##TABLE[class="bn_cLHF3o3Tnt_table"]
 seasonvar.ru##DIV[id="rmg"]
@@ -13,32 +11,26 @@ seasonvar.ru##A[id="brand"]
 seasonvar.ru##DIV[id="prmbn"]
 seasonvar.ru##DIV[class="sidebl sideleft"]
 seasonvar.ru##DIV[class="sidebl sideright"]
-www.draugiem.lv##SPAN[class="received_gift"]
+
 rutracker.org##DIV[class="tCenter bCenter"]
 rutracker.org##DIV[id="owo-idx-6"][class="tCenter"]
 rutracker.org##DIV[id="ddest-bn-1"]
 rutracker.org##DIV[id="bn-tio-1"][class="tCenter"]
+
 *.directadvert*
+
 miljons.com##DIV[class="ads"]
 
+www.tvnet.lv##DIV[id="column03"]
 ad120*
 
 
-www.pikstra.com##DIV[id="coverPicLikeId"][class="coverPic"]
-www.draugiem.lv##DIV[id="adw_944"][class="adWindow"]
-
-
+www.draugiem.lv##DIV[class="adv*"]
+www.draugiem.lv##SPAN[class="received_gift"]
 www.draugiem.lv##DIV[id="adw*"]
+
 www.ceturtdiena.lv##DIV[id="gk_banner"][class="clearfix"]
 www.ceturtdiena.lv##DIV[class="advert"]
-www.kakao.lv##DIV[id="smad_parentcd3537ff-1222-46f2-93ff-e93684eb41e9"]
-www.kakao.lv##A[href="http://inectar.lv/tik.php?id=33&kid=1&kas=10"]
-www.draugiem.lv##SPAN[class="received_gift"]
-www.kurpirkt.lv##DIV[id="smad_parentbe89a087-b3d3-4abd-a401-b09a5e266981"]
-www.tvnet.lv##DIV[id="ad120x600_left"]
-www.tvnet.lv##DIV[id="ad120x600_right"]
-www.tvnet.lv##DIV[id="column03"]
 
-
-seasonvar.ru##TD[class="lx__tsb"]
 *smad_parent*
+www.kakao.lv##A[href="http://inectar.lv/tik.php?id=33&kid=1&kas=10"]
