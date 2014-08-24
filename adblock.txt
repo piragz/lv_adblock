@@ -35,6 +35,15 @@ rutracker.org##DIV[id="bn-tio-1"][class="tCenter"]
 
 
 
+www.tvnet.lv##DIV[id="ad120x600_left"]
+www.tvnet.lv##DIV[id="ad120x600_right"]
+www.salidzini.lv##DIV[id="media_place_8"]
+www.salidzini.lv##DIV[id="media_place_36"]
+www.salidzini.lv##DIV[id="media_place_40"]
+www.salidzini.lv##DIV[id="media_place_68"]
+seasonvar.ru##DIV[class="ololo"]
+seasonvar.ru##DIV[id="e6bed7a649"]
+
 *.directadvert*
 
 miljons.com##DIV[class="ads"]
